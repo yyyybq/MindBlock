@@ -1,7 +1,6 @@
-# Zebra-CoT: A Dataset for Interleaved Vision-Language Reasoning
+# MindBlock: Probing Spatial Assembly and Structure in Unified Multimodal Models
 
-![Image](assets/zebra_cot_datacard.png)
-### BAGEL Training Zebra-CoT
+### MindBlock
 
 This repository is adapted from the [Bagel](https://github.com/ByteDance-Seed/Bagel) repository.
 ### Setup
